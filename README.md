@@ -10,7 +10,7 @@ My first kotlin based application. A basic project with a single button and coup
 
 
 ## Tools and Languages:
-<img align="left" alt="OpenCV" width="26px" src="kotlin.png" >
+<img align="left" alt="Kotlin" width="46px" src="kotlin.png" >
 <br>
 
 ### Developed by

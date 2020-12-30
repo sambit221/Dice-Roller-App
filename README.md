@@ -1,4 +1,4 @@
-# Dice-Roller-App-
+# Dice-Roller-App
 My first kotlin based application. A basic project with a single button and couple of images to perform dice rolling functionality.
 # Project Description:
   A very basic and my first *Kotiln* application made up of a single screen, single button and a couple of images to perfom dice rolling functionality.<br>
